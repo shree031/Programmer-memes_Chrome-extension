@@ -1,3 +1,8 @@
+<p align="start">
+  <img src="https://github.com/user-attachments/assets/b2c8ee91-9c7e-464a-8585-bc98dcc1261f" width="400">
+  <img src="https://github.com/user-attachments/assets/2bc5140d-cf55-42e4-8c24-698dbd24b8fa" width="400">
+</p>
+
 # Programmer Memes Chrome Extension
 
 ### A lightweight and fun Chrome extension that fetches random programming memes from an API and displays them in a popup. Perfect for developers looking for a quick laugh, a bit of motivation, or just a well-timed meme break while coding!
